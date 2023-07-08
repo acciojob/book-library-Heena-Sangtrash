@@ -1,1 +1,30 @@
 /*  your css code here. If applicable */
+*{
+	background:lightgray;
+}
+.book-library{
+	background:lightgray;
+}
+h2{
+	text-align:center;
+	padding:5px;
+}
+hr{
+	height:10px;
+	background:white;
+}
+.img1{
+	margin-left:150px;
+}
+.title{
+	text-align:left;
+/* 	margin-bottom:5px; */
+}
+.price1{
+	background:green;
+	height:30px;
+	color:white;
+/* 	margin-left:250px; */
+	text-align:center;
+	padding:5px;
+}
